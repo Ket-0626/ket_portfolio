@@ -156,7 +156,7 @@ p {
 	z-index: 100;
 	cursor: pointer;
 	transform: scale(0.8);
-	margin-right: 20px;
+	margin-right: 0px;
 }
 #header .hamburger:after {
 	position: absolute;
